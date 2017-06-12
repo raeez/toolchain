@@ -1,0 +1,9 @@
+[submodule "translate-shell"]
+	path = translate-shell
+	url = https://github.com/soimort/translate-shell.git
+[submodule "hub"]
+	path = hub
+	url = git@github.com:github/hub.git
+[submodule "shpotify"]
+	path = shpotify
+	url = git@github.com:hnarayanan/shpotify.git
